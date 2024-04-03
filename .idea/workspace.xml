@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4d783ce-68ab-47dc-a3b1-d48e751b1707" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/strings/Strings.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4d783ce-68ab-47dc-a3b1-d48e751b1707" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Shalu",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Shalini/JavaPractice/JavaPractice/src/main/java/com/learn",
     "onboarding.tips.debug.path": "C:/Shalini/JavaPractice/JavaPractice/src/main/java/org/example/Main.java"
