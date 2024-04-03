@@ -2,7 +2,7 @@ package com.learn.strings;
 
 public class Strings {
     public static void main(String[] args){
-        String str="dell";
+        String str="core java";
         String str1=new String("ss");
 
         System.out.println(str);
