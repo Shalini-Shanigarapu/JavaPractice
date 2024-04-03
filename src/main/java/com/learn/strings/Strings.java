@@ -7,7 +7,7 @@ public class Strings {
 
         System.out.println(str);
         System.out.println(str1);
-        String course="java";
+        String course="Java";
        String classes=course.concat(" selenium");
         System.out.println(classes);
         String a = new String();
