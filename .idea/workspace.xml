@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4d783ce-68ab-47dc-a3b1-d48e751b1707" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/PracticeSelenium/Launch.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.Guser.executor": "Run",
+    "Application.HandlingException.executor": "Run",
     "Application.HightestValues.executor": "Run",
     "Application.LL.executor": "Run",
     "Application.LargestValue.executor": "Run",
@@ -73,7 +72,7 @@
       <recent name="C:\Shalini\JavaPractice\JavaPractice\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
+  <component name="RunManager" selected="Application.HandlingException">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.Factorial" />
       <module name="JavaPractice" />
@@ -100,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.LargestValue" />
+    <configuration name="HandlingException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.HandlingException" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HandlingException" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.LargestValue" />
       </list>
     </recent_temporary>
   </component>
