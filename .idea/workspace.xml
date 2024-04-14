@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d783ce-68ab-47dc-a3b1-d48e751b1707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Collections/AL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Collections/AL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/PracticeSelenium/Launch.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +37,24 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AL.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.Guser.executor": "Run",
+    "Application.HightestValues.executor": "Run",
     "Application.LL.executor": "Run",
+    "Application.LargestValue.executor": "Run",
     "Application.Launch.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.QPractice.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.ReverseSubString.executor": "Run",
+    "Application.SecoundHightestValue.executor": "Run",
     "Application.StackPractice.executor": "Run",
+    "Application.SubStringReverse.executor": "Run",
     "Application.VPractice.executor": "Run",
     "Maven.JavaPractice [compile].executor": "Run",
+    "Maven.JavaPractice [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -54,7 +62,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Shalini/JavaPractice/JavaPractice/src/main/java/com/learn",
     "onboarding.tips.debug.path": "C:/Shalini/JavaPractice/JavaPractice/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -65,13 +73,13 @@
       <recent name="C:\Shalini\JavaPractice\JavaPractice\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Launch">
-    <configuration name="Guser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Collections.Guser" />
+  <component name="RunManager" selected="Application.PrimeNumber">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.Factorial" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.Collections.*" />
+          <option name="PATTERN" value="com.learn.Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Collections.LL" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.Fibonacci" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.Collections.*" />
+          <option name="PATTERN" value="com.learn.Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.PracticeSelenium.Launch" />
+    <configuration name="LargestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.LargestValue" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PracticeSelenium.*" />
+          <option name="PATTERN" value="com.learn.Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Collections.QPractice" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.Palindrome" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.Collections.*" />
+          <option name="PATTERN" value="com.learn.Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Collections.StackPractice" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.PrimeNumber" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.Collections.*" />
+          <option name="PATTERN" value="com.learn.Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Launch" />
-        <item itemvalue="Application.QPractice" />
-        <item itemvalue="Application.LL" />
-        <item itemvalue="Application.Guser" />
-        <item itemvalue="Application.StackPractice" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.LargestValue" />
       </list>
     </recent_temporary>
   </component>
