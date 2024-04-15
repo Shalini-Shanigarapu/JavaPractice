@@ -15,6 +15,7 @@ public class Matrix {
             System.out.println();
         }
     }
+    //Multipication of 2 matrices
     public static void multipication() {
         int[][] arr1 = new int[][]{{4, 3, 1}, {9, 8, 2}, {8, 6, 4}};
         int[][] arr2 = new int[][]{{3, 6, 8}, {6, 5, 3}, {9, 2, 4}};
@@ -27,6 +28,7 @@ public class Matrix {
             System.out.println();
         }
     }
+    //transpose
     public static void transpose() {
         int[][] arr1 = new int[][]{{1, 8, 4}, {9, 7, 2}, {7, 6, 4}};
         int[][] arr2 = new int[3][3];
@@ -38,6 +40,7 @@ public class Matrix {
             System.out.println();
         }
     }
+    //3*3 matrix array
     public static void matrix() {
         int[][] arr = new int[][]{{1, 2, 1}, {9, 7, 2}, {7, 6, 4}};
 

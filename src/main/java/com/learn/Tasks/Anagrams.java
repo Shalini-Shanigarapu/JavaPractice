@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class Anagrams {
     public static void main(String[] args) {
-        String str1="Heart";
+        String str1="heart";
         String str2="earth";
         if (anagram(str1,str2)){
             System.out.println(str1+" and "+str2+" are Anagrams");
