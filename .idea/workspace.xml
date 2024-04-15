@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4d783ce-68ab-47dc-a3b1-d48e751b1707" name="Changes" comment="" />
+    <list default="true" id="a4d783ce-68ab-47dc-a3b1-d48e751b1707" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Tasks/Matrix.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,44 +33,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AL.executor": "Run",
-    "Application.Anagrams.executor": "Run",
-    "Application.Company.executor": "Run",
-    "Application.DuplicateElements.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.Guser.executor": "Run",
-    "Application.HandlingException.executor": "Run",
-    "Application.HightestValues.executor": "Run",
-    "Application.LL.executor": "Run",
-    "Application.LargestValue.executor": "Run",
-    "Application.Launch.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.QPractice.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.ReverseSubString.executor": "Run",
-    "Application.SecoundHightestValue.executor": "Run",
-    "Application.StackPractice.executor": "Run",
-    "Application.SubStringReverse.executor": "Run",
-    "Application.VPractice.executor": "Run",
-    "Maven.JavaPractice [compile].executor": "Run",
-    "Maven.JavaPractice [test].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Shalu",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Shalini/JavaPractice/JavaPractice/src/main/java/com/learn",
-    "onboarding.tips.debug.path": "C:/Shalini/JavaPractice/JavaPractice/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Company.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Guser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandlingException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HightestValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Launch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecoundHightestValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubStringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.JavaPractice [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.JavaPractice [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Shalu&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Shalini/JavaPractice/JavaPractice/src/main/java/com/learn&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Shalini/JavaPractice/JavaPractice/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Shalini\JavaPractice\JavaPractice\src\main\java\com\learn" />
@@ -142,8 +147,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.DuplicateElements" />
         <item itemvalue="Application.Anagrams" />
+        <item itemvalue="Application.DuplicateElements" />
         <item itemvalue="Application.Company" />
         <item itemvalue="Application.HandlingException" />
       </list>
