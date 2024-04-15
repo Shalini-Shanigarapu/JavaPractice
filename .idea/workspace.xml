@@ -37,6 +37,7 @@
     "Application.AL.executor": "Run",
     "Application.Algorithms.executor": "Run",
     "Application.Anagrams.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.BubbleSorting.executor": "Run",
     "Application.Company.executor": "Run",
@@ -84,7 +85,20 @@
       <recent name="C:\Shalini\JavaPractice\JavaPractice\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.SortingAlgorithms.BinarySearch" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.Tasks.SortingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.Tasks.SortingAlgorithms.BubbleSort" />
       <module name="JavaPractice" />
@@ -104,19 +118,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.Tasks.SortingAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Algorithms.MergeSorting" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.QuickSorting" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.MergeSorting" />
       </list>
     </recent_temporary>
   </component>
